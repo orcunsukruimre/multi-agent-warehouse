@@ -1,0 +1,40 @@
+# API Keys - ASLA GitHub'a yükleme!
+.env
+*.env
+config.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Outputs (opsiyonel - paylaşmak istemezseniz)
+outputs/*.xlsx
+outputs/*.csv
+outputs/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Logs
+logs/
+*.log
