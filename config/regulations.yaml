@@ -1,0 +1,17 @@
+# Basitleştirilmiş İş Kanunu Kuralları
+# Günlük Atama İçin
+
+working_hours:
+  daily_minutes: 435  # 7.25 saat = 435 dakika (verimli çalışma)
+  minutes_per_tour: 40  # Bir tur ortalama 40 dakika
+  max_tours_per_day: 10  # 435 / 40 = 10.875 ≈ 10 tur
+  
+violations:
+  tour_limit_exceeded:
+    threshold: 11  # 11+ tur ihlaldir
+    risk_level: "KRİTİK"
+    message: "Operatör günlük tur limiti aşıldı"
+
+compliance_levels:
+  UYUMLU: "0-10 tur, yasal limit içinde"
+  İHLAL: "11+ tur, günlük çalışma süresi aşıldı (kritik)"
