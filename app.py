@@ -2,13 +2,16 @@
 Multi-Agent Warehouse Decision Support System
 Streamlit Web Arayüzü - Yalın Tasarım
 """
+
 import streamlit as st
 import pandas as pd
 import sys
 from pathlib import Path
-import matplotlib.pyplot as plt
+
+# Matplotlib backend'i önce ayarla (Streamlit Cloud için gerekli)
 import matplotlib
 matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 
 # Path ayarla
 sys.path.append(str(Path(__file__).parent))
