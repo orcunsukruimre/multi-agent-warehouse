@@ -9,6 +9,15 @@
 
 ---
 
+## 📖 Medium Yazısı
+
+Bu proje hakkında detaylı yazı:
+
+**📝 [Ajan Temelli Yapay Zekâ ile Depo Yönetimi: İnsanı Döngüde Tutan Gerçek Bir Uygulama](https://sukruimre.medium.com/ajan-temelli-yapay-zekâ-ile-depo-yönetimi-i̇nsanı-döngüde-tutan-gerçek-bir-uygulama-cc1f677e2445?postPublishedType=initial)**
+
+*Sistem tasarımı, 4 uzman ajanın nasıl çalıştığı, human-in-the-loop yaklaşımı ve gerçek dünya uygulamaları hakkında detaylı açıklama.*
+
+---
 
 ## 🎯 Özellikler
 
