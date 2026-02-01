@@ -249,7 +249,7 @@ brew install glpk
 
 ## 📝 Lisans
 
-MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+MIT License
 
 ---
 
